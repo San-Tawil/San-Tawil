@@ -19,6 +19,7 @@ I'm a bioinformatics student at the **Lebanese American University**, graduating
 - ⚙️ Building automated pipelines with **Snakemake**, **Nextflow**, **Docker**, and **Podman**
 - 📊 Working with differential expression, enrichment analysis, diversity metrics, and ordination
 - 🌐 Developing software with **HTML5**, **CSS3**, **TypeScript**, and **React**
+- 🗄️ Working with relational databases using **PostgreSQL**
 - 📦 Building and packaging applications using **NSIS**
 - 🔬 Interested in computational drug discovery and AI-assisted biological research
 - 🌍 Lebanese-Canadian, based in Beirut, Lebanon
@@ -42,6 +43,10 @@ I'm a bioinformatics student at the **Lebanese American University**, graduating
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Workflows & engineering
 
@@ -80,6 +85,7 @@ Alongside computational biology, I work with modern software development and dep
 
 - **Frontend:** HTML5 · CSS3 · TypeScript · React
 - **Scientific programming:** Python · R · Bash
+- **Databases:** PostgreSQL
 - **Workflow automation:** Snakemake · Nextflow
 - **Containers:** Docker · Podman
 - **Application packaging:** NSIS
