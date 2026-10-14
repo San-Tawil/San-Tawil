@@ -28,7 +28,7 @@ I'm a bioinformatics student at the **Lebanese American University**, graduating
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**RNA-seq Pipeline**](https://github.com/San-Tawil/rnaseq-pipeline) | Reproducible counts-to-results workflow with DESeq2, edgeR, limma, enrichment analysis, MultiQC, and a consolidated results workbook. | Snakemake · R · Bash · Docker |
+| [**Transcripta**](https://github.com/San-Tawil/transcriptaUI) | Reproducible counts-to-results workflow with DESeq2, edgeR, limma, enrichment analysis, MultiQC, and a consolidated results workbook. | Snakemake · R · Bash · Docker |
 | [**Microbiome Analysis**](https://github.com/San-Tawil/Microbiome-Analysis) | Analyzes MetaPhlAn abundance tables using taxonomic profiling, alpha/beta diversity, PCoA, NMDS, PERMANOVA, and PERMDISP. | Python · pandas · SciPy · scikit-learn |
 
 ## Toolbox
