@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm a bioinformatics student at the **Lebanese American University**, graduating in **2027**. I work where biology, statistics, and software engineering meet—primarily on high-throughput sequencing analysis, reproducible scientific workflows, and software development.
+I'm a bioinformatics student at the **Lebanese American University**, graduating in **December 2026**. I work where biology, statistics, and software engineering meet—primarily on high-throughput sequencing analysis, reproducible scientific workflows, and software development.
 
 - 🧬 Exploring **RNA-seq**, **transcriptomics**, **microbiome analysis**, and **metagenomics**
 - ⚙️ Building automated pipelines with **Snakemake**, **Nextflow**, **Docker**, and **Podman**
