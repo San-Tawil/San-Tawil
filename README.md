@@ -2,7 +2,7 @@
 
 <h1>Hassan El-Tawil</h1>
 
-<h3>Computational Biology · Bioinformatics · Reproducible Research Software</h3>
+<h3>Computational Biology · Bioinformatics graduate · Reproducible Research Software</h3>
 
 <p><em>Turning sequencing data and biological questions into workflows that can be trusted, rerun, and understood.</em></p>
 
